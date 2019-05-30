@@ -621,6 +621,7 @@ body #about #leftRight #left1 p {
   font-size: 2em;
   padding: 60px 0px;
   text-align: justify;
+  font-family: 'Muli', sans-serif;
 }
 
 @media (max-width: 1200px) {
